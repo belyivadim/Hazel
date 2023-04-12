@@ -1,2 +1,2 @@
 # Hazel
-Hazel Game Engine
+It is just my implementation of Hazel Game Engine by TheCherno
